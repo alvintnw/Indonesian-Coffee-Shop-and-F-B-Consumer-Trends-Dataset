@@ -8,7 +8,7 @@ st.set_page_config(
     page_title="Indonesian Coffee Shop Dashboard", layout="wide"
 )
 
-st.title("Indonesian Coffee Shop & F&B Consumer Trends Dashboard")
+st.title("Indonesian Coffee Shop & F and B Consumer Trends Dashboard")
 st.markdown(
     "Interactive analytics dashboard tracking daily transactions, menu category"
     " popularity, digital payment adoption, and customer satisfaction across"
