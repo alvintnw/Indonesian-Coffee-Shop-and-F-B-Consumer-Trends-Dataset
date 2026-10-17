@@ -1,6 +1,5 @@
 ---
 title: Indonesian Coffee Shop Consumer Trends
-emoji: ☕
 colorFrom: yellow
 colorTo: brown
 sdk: streamlit
